@@ -471,7 +471,7 @@ export default function Home() {
 
       <footer>
         <a href="#home" className="logo">
-          NADA<span>.</span>
+          NADA ZAMAN<span>.</span>
         </a>
         <p>Designed with curiosity. Built with purpose.</p>
         <a href="#home">Back to top ↑</a>
